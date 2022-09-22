@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19aca1c27b071d34baa82d5ef54695e3, type: 3}
+  m_Name: ItemClass_Maczet
+  m_EditorClassIdentifier: 
+  itemName: Maczet
+  canStack: 0
+  itemID: 5
+  itemType: 1
+  itemContainer: {fileID: 6508356971288587127, guid: d85b063ad68347b4ba334c1bb47fe138, type: 3}
+  itemSprite: {fileID: 21300000, guid: 89643997c56ec3f4c96a483bb39c67c1, type: 3}
+  slotQuantity: 0
+  damage: 2

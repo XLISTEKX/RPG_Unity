@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19aca1c27b071d34baa82d5ef54695e3, type: 3}
+  m_Name: ItemClass_Backpack
+  m_EditorClassIdentifier: 
+  itemName: Backpack
+  canStack: 0
+  itemID: 1
+  itemType: 4
+  itemContainer: {fileID: 5342063747794040395, guid: 2d071034f97402d4abb42acc50fa622c, type: 3}
+  itemSprite: {fileID: 21300000, guid: fc1e2ac4ab2c2cf43b0586be4066f38c, type: 3}
+  slotQuantity: 0
